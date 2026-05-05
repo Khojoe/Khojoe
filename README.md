@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Khojoe! 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=University+of+Ghana+Student;Passionate+Frontend+%26+Full+Stack+Developer;Building+Clean+and+Responsive+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=University+of+Ghana+Student;Passionate+Frontend+Developer;Building+Clean+and+Responsive+Web+Applications" alt="Typing SVG" />
 
   <p><strong>Turning ideas into responsive, beautiful, and user-friendly digital experiences.</strong></p>
 </div>
@@ -45,3 +45,17 @@ const buildSuccess = (effort, consistency, teamwork) => {
     }
     return "Great things happen when we work together 🚀";
 };
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khojoe01&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Khojoe01&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoe01&layout=compact&theme=tokyonight)
+
+</div>
