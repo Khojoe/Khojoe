@@ -1,18 +1,18 @@
 <div align="center">
   <h1>Hi there, I'm Khojoe! 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=University+of+Ghana+Student;Passionate+Frontend+Developer;Building+Clean+and+Responsive+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=University+of+Ghana+Student;Passionate+Frontend+Developer;Building+Clean%2C+Responsive+%26+Beautiful+Interfaces" alt="Typing SVG" />
 
-  <p><strong>Turning ideas into responsive, beautiful, and user-friendly digital experiences.</strong></p>
+  <p><strong>Turning ideas into responsive, neat, and user-friendly web experiences.</strong></p>
 </div>
 
 ---
 
 ### About Me
 
-I'm **Khojoe**, a dedicated student at the **University of Ghana**. 
+I'm **Khojoe**, a dedicated student at the **University of Ghana**.  
 
-I’m always learning and pushing myself to improve. I enjoy building **clean, responsive, and visually appealing** web applications. My goal is to **contribute my best in every team** I work with, deliver quality work, and help make every project a success.
+I’m always learning and striving to improve myself. I enjoy building **clean, responsive, and visually appealing** web applications. My goal is to **contribute my best in every team**, deliver quality work, and help make every project a success.
 
 ---
 
@@ -34,7 +34,7 @@ I’m always learning and pushing myself to improve. I enjoy building **clean, r
 
 ### 💡 My Developer Mantra
 
-```js
+```javascript
 // Khojoe's Code Philosophy
 const buildSuccess = (effort, consistency, teamwork) => {
     while (effort && consistency) {
@@ -43,8 +43,9 @@ const buildSuccess = (effort, consistency, teamwork) => {
         improve();
         collaborate();
     }
-    return "Great things happen when we work together 🚀";
+    return "Great things happen when we work together";
 };
+```
 
 ---
 
@@ -52,10 +53,18 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true)
+![Khojoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Khojoe&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+### Let's Connect & Build Together!
+
+I'm always open to collaboration, learning opportunities, and interesting projects.
+
+Feel free to reach out!
+
+---
