@@ -52,10 +52,10 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khojoe01&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Khojoe01&theme=tokyonight&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Khojoe&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoe01&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight)
 
 </div>
