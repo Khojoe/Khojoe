@@ -1,19 +1,22 @@
 <div align="center">
-  <h1>Hi there, I'm Khojoe! 👋</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=University+of+Ghana+Student;Passionate+Frontend+Developer;
-    Building+Clean%2C+Responsive+%26+Beautiful+Interfaces" alt="Typing SVG" />
 
-  <p><strong>Turning ideas into responsive, neat, and user-friendly web experiences.</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=200&section=header&text=Hey,%20I'm%20Khojoe!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20University%20of%20Ghana&descAlignY=58&descAlign=50" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;University+of+Ghana+Student+%F0%9F%8E%93;Building+Clean+%26+Responsive+Interfaces+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### About Me
+### 👨🏾‍💻 About Me
 
-I'm **Khojoe**, a dedicated student at the **University of Ghana**.  
+Hey! I'm **Khojoe**, a passionate **Frontend Developer** and student at the **University of Ghana**. I love turning ideas into clean, responsive, and visually appealing web experiences that users actually enjoy.
 
-I’m always learning and striving to improve myself. I enjoy building **clean, responsive, and visually appealing** web applications. My goal is to **contribute my best in every team**, deliver quality work, and help make every project a success.
+- 🎓 Studying at the **University of Ghana**
+- 🌍 Based in **Accra, Ghana**
+- 🔭 Currently leveling up in **React** and **full-stack development**
+- 🤝 Open to **collaborations**, **open-source**, and **interesting projects**
+- ⚡ Fun fact: I believe great UI is invisible — it just *feels* right
 
 ---
 
@@ -21,13 +24,20 @@ I’m always learning and striving to improve myself. I enjoy building **clean, 
 
 <div align="center">
 
+**Frontend**
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Tools**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -38,13 +48,13 @@ I’m always learning and striving to improve myself. I enjoy building **clean, 
 ```javascript
 // Khojoe's Code Philosophy
 const buildSuccess = (effort, consistency, teamwork) => {
-    while (effort && consistency) {
-        learn();
-        create();
-        improve();
-        collaborate();
-    }
-    return "Great things happen when we work together";
+  while (effort && consistency) {
+    learn();
+    create();
+    improve();
+    collaborate();
+  }
+  return "Great things happen when we work together 🚀";
 };
 ```
 
@@ -54,18 +64,34 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <div align="center">
 
-![Khojoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Khojoe&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-### Let's Connect & Build Together!
+### 🌐 Let's Connect
 
-I'm always open to collaboration, learning opportunities, and interesting projects.
+<div align="center">
 
-Feel free to reach out!
+I'm always open to collaboration, learning, and building cool things together. Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=120&section=footer" />
+
+</div>
