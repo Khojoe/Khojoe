@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <h1>Hi there, I'm Khojoe! 👋</h1>
   
@@ -46,18 +45,3 @@ const buildSuccess = (effort, consistency, teamwork) => {
     }
     return "Great things happen when we work together 🚀";
 };
-```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khojoe01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoe01&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-
