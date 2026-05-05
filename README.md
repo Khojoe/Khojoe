@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hi there, I'm Khojoe! 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=University+of+Ghana+Student;Passionate+Frontend+Developer;Building+Clean%2C+Responsive+%26+Beautiful+Interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=University+of+Ghana+Student;Passionate+Frontend+Developer;
+    Building+Clean%2C+Responsive+%26+Beautiful+Interfaces" alt="Typing SVG" />
 
   <p><strong>Turning ideas into responsive, neat, and user-friendly web experiences.</strong></p>
 </div>
