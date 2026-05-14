@@ -69,7 +69,7 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Khojoe&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Khojoe&theme=tokyonight&hide_border=true&timezone=Africa/Accra)
 
 </div>
 
