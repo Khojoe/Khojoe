@@ -64,8 +64,8 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 
 <br/>
 
