@@ -91,8 +91,7 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 </div>
 
-
-
+---
 
 ### 🌐 Let's Connect
 
