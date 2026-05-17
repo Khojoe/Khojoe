@@ -98,6 +98,12 @@ I'm always open to collaboration, learning, and building cool things together. L
 
 </div>
 
+<div align="center">
+  
+[![committers.top badge](https://user-badge.committers.top/ghana_public/USERNAME.svg)](https://user-badge.committers.top/ghana_public/USERNAME)
+
+</div>
+
 ---
 
 <div align="center">
