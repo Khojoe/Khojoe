@@ -83,15 +83,7 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 </div>
 
----
 
-<div align="center">
-  
-[![committers.top badge](https://user-badge.committers.top/ghana_public/USERNAME.svg)](https://user-badge.committers.top/ghana_public/USERNAME)
-
-</div>
-
----
 
 ### 🌐 Let's Connect
 
@@ -111,5 +103,13 @@ I'm always open to collaboration, learning, and building cool things together. L
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=120&section=footer" />
+
+</div>
+
+---
+
+<div align="center">
+  
+[![committers.top badge](https://user-badge.committers.top/ghana_public/USERNAME.svg)](https://user-badge.committers.top/ghana_public/USERNAME)
 
 </div>
