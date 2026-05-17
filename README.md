@@ -85,6 +85,14 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 ---
 
+<div align="center">
+  
+[![committers.top badge](https://user-badge.committers.top/ghana_public/USERNAME.svg)](https://user-badge.committers.top/ghana_public/USERNAME)
+
+</div>
+
+---
+
 ### 🌐 Let's Connect
 
 <div align="center">
@@ -95,12 +103,6 @@ I'm always open to collaboration, learning, and building cool things together. L
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Khojoe01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://immanuel-debe-iota.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immanueldebe@gmail.com)
-
-</div>
-
-<div align="center">
-  
-[![committers.top badge](https://user-badge.committers.top/ghana_public/USERNAME.svg)](https://user-badge.committers.top/ghana_public/USERNAME)
 
 </div>
 
