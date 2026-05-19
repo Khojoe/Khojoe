@@ -69,7 +69,7 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Khojoe&theme=tokyonight&hide_border=true&timezone=Africa%2FAccra)
+![GitHub Streak](https://github-readme-streak-stats-ten-sable-62.vercel.app?user=Khojoe&theme=tokyonight&hide_border=true&timezone=Africa%2FAccra)
 
 </div>
 
@@ -86,8 +86,8 @@ const buildSuccess = (effort, consistency, teamwork) => {
 ---
 
 <div align="center">
-  
-[![committers.top badge](https://user-badge.committers.top/ghana_public/USERNAME.svg)](https://user-badge.committers.top/ghana_public/USERNAME)
+
+[![committers.top badge](https://user-badge.committers.top/ghana_public/Khojoe.svg)](https://user-badge.committers.top/ghana_public/Khojoe)
 
 </div>
 
