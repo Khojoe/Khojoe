@@ -69,7 +69,7 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats-ten-sable-62.vercel.app?user=Khojoe&theme=tokyonight&hide_border=true&timezone=Africa%2FAccra)
+[![GitHub Streak](https://githubreadmestreakstats-pi.vercel.app?user=Khojoe&theme=tokyonight&hide_border=true&timezone=Africa%2FAccra)](https://git.io/streak-stats)
 
 </div>
 
