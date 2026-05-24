@@ -85,9 +85,21 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khojoe&theme=react-dark&hide_border=true&area=true&color=00C3FF&line=00C3FF&point=ffffff" alt="Contribution Graph" />
+
+</div>
+
+---
+
 <div align="center">
 
 [![committers.top badge](https://user-badge.committers.top/ghana_public/Khojoe.svg)](https://user-badge.committers.top/ghana_public/Khojoe)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Khojoe&color=00C3FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
