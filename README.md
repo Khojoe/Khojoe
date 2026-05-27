@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=200&section=header&text=Hey,%20I'm%20Khojoe!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20University%20of%20Ghana&descAlignY=58&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;University+of+Ghana+Student+%F0%9F%8E%93;Building+Clean+%26+Responsive+Interfaces+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;University+of+Ghana+Student+%F0%9F%8E%93;Building+Clean+%26+Responsive+Interfaces+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -64,8 +64,8 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <div align="center">
 
-<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 
 <br/>
 
@@ -79,8 +79,52 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Khojoe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1)
+![Trophies](https://github-trophies.vercel.app/?username=Khojoe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=2)
 
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khojoe&theme=react-dark&hide_border=true&area=true&color=00C3FF&line=00C3FF&point=ffffff" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/ghana_public/Khojoe.svg)](https://user-badge.committers.top/ghana_public/Khojoe)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Khojoe&color=00C3FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+I'm always open to collaboration, learning, and building cool things together. Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immanuel-oheneba-debe-352ab0367)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Khojoe01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://immanuel-debe-iota.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immanueldebe@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=120&section=footer" />
+
+</div>
 </div>
 
 ---
