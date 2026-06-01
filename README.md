@@ -65,7 +65,7 @@ const buildSuccess = (effort, consistency, teamwork) => {
 <div align="center">
 
 <img src="https://github-readme-stats-peach-kappa-69.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
 <br/>
 
@@ -89,7 +89,7 @@ const buildSuccess = (effort, consistency, teamwork) => {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khojoe&theme=react-dark&hide_border=true&area=true&color=00C3FF&line=00C3FF&point=ffffff" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khojoe&theme=react-dark&hide_border=true&area=true&color=00C3FF&line=00C3FF&point=ffffff" alt="Contribution Graph" />
 
 </div>
 
@@ -122,6 +122,6 @@ I'm always open to collaboration, learning, and building cool things together. L
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=120&section=footer" />
 
 </div>
