@@ -122,6 +122,6 @@ I'm always open to collaboration, learning, and building cool things together. L
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=120&section=footer" />
 
 </div>
