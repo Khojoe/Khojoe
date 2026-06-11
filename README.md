@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=200&section=header&text=Hey,%20I'm%20Khojoe!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20University%20of%20Ghana&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=200&section=header&text=Hey,%20I'm%20Khojoe!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20University%20of%20Ghana&descAlignY=58&descAlign=50"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;University+of+Ghana+Student+%F0%9F%8E%93;Building+Clean+%26+Responsive+Interfaces+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG"/>
 
@@ -65,7 +65,7 @@ const buildSuccess = (effort, consistency, teamwork) => {
 <div align="center">
 
 <img src="https://github-readme-stats-peach-kappa-69.vercel.app/api?username=Khojoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats-peach-kappa-69.vercel.app/api/top-langs/?username=Khojoe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 
 <br/>
 
