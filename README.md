@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=200&section=header&text=Hey,%20I'm%20Khojoe!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20University%20of%20Ghana&descAlignY=58&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;University+of+Ghana+Student+%F0%9F%8E%93;Building+Clean+%26+Responsive+Interfaces+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;University+of+Ghana+Student+%F0%9F%8E%93;Building+Clean+%26+Responsive+Interfaces+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
